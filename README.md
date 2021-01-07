@@ -6,8 +6,7 @@ Working code examples for BGM220 Explorer Kit Board
   *Modified Silabs code for another board which expected input on PC4,
   not accessible on the Explorer Kit board, so I changed to PC0.*
   
-    "...The ADC reads GPIO pins PC4
-    (P25 on BRD4001 J102) as input. "
+    "...The ADC reads GPIO pins PC4 (P25 on BRD4001 J102) as input. "
  
  *Here is where the change went-*
  
