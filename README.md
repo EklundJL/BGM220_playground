@@ -18,7 +18,7 @@ Working code examples for BGM220 Explorer Kit Board
    initSingleInput.posInput = iadcPosInputPortCPin0;
   
   Later I also included Port C pin 1 (besides original Port B pin 1)
-  notifying when conversion occuring.  On a 'scope, pulse is about 100 ns wide, 
+  notifying when conversion occurring.  On a 'scope, pulse is about 100 ns wide, 
   every 13 us (77kHz).
   
      // Configure PB1 as output, will indicate when conversions are being performed
